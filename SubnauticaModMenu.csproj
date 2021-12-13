@@ -69,9 +69,6 @@
   <ItemGroup>
     <None Include="mod.json" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="todo.txt" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>mkdir "E:\SteamLibrary\steamapps\common\Subnautica\QMods\$(TargetName)"

@@ -6,6 +6,10 @@
   "Enable": true,
   "AssemblyName": "SubnauticaModMenu.dll",
   "VersionDependencies": {
+    "SMLHelper": "2.12.1"
   },
-    "Game": "Subnautica"
+  "Game": "Subnautica",
+  "VersionChecker": {
+    "LatestVersionURL": "https://raw.githubusercontent.com/Anjato/SubnauticaModMenu/master/mod.json"
+  }
   }
