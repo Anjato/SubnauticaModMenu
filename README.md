@@ -6,7 +6,7 @@ First time creating a mod for a game. I haven't actually played through Subnauti
 
 [QModManager v4.3.0+](https://www.nexusmods.com/subnautica/mods/201) </br>
 [SMLHelper v2.12.1+](https://www.nexusmods.com/subnautica/mods/113) </br>
-[VersionChecker v1.3.1.1](https://www.nexusmods.com/subnautica/mods/467) (Optional but very useful) </br> 
+[VersionChecker v1.3.1.1+](https://www.nexusmods.com/subnautica/mods/467) (Optional but very useful) </br> 
 Extract the folder in the .zip to %SteamInstall%\steamapps\common\Subnautica\QMods </br>
 
 
