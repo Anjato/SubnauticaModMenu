@@ -17,7 +17,7 @@ Extract the folder in the .zip to %SteamInstall%\steamapps\common\Subnautica\QMo
 
 
 ## ✅ Completed
-
+[v1.0.0]
 - [x] Infinite Health
 - [x] Infinite Oxygen
 - [x] Infinite Hunger
