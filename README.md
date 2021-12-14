@@ -24,4 +24,4 @@ Extract the folder in the .zip to %SteamInstall%\steamapps\common\Subnautica\QMo
 - [ ] Inventory Modifiers
 - [ ] Plant Growth Modifier
 
-`Note: These definitely won't be the only updates I plan on making, they are only what I can currently think of from what I've been browsing in dnSpy. I literally haven't even gotten 15 minutes into the game before starting to reverse engineer the game so I'm not exactly sure what most of the things in the game are. This mod is going to be focused as a cheat menu but will focus on and create QoL mods once I actually start playing the game and get ideas and hopefully some other fun and creative ideas :).`
+`Note: These definitely won't be the only updates I plan on making, they are only what I can currently think of from what I've been browsing in dnSpy. I literally haven't even gotten 15 minutes into the game before starting to reverse engineer the game so I'm not exactly sure what most of the things in the game are. This mod is going to be focused as a cheat menu. I will focus on and create QoL mods once I actually start playing the game and hopefully I can think of some other fun and creative ideas :).`
