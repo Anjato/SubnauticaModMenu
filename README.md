@@ -10,9 +10,9 @@ For example, rather than setting `LiveMixin.invincible = true`, I would rather `
 
 ## 📝 Usage & Requirements
 
-[QModManager v4.3.0+](https://www.nexusmods.com/subnautica/mods/201) </br>
-[SMLHelper v2.12.1+](https://www.nexusmods.com/subnautica/mods/113) </br>
-[VersionChecker v1.3.1.1+](https://www.nexusmods.com/subnautica/mods/467) (Optional but very useful) </br> 
+[QModManager v4.3.0+](https://github.com/SubnauticaModding/QModManager) </br>
+[SMLHelper v2.12.1+](https://github.com/SubnauticaModding/SMLHelper) </br>
+[VersionChecker v1.3.1.1+](https://github.com/toebeann/VersionChecker) (Optional but very useful) </br> 
 Extract the folder in the .zip to %SteamInstall%\steamapps\common\Subnautica\QMods </br>
 
 
